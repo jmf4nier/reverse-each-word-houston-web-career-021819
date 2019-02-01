@@ -9,6 +9,7 @@ def reverse_each_word(string)
     
  # end
   puts array  
+  return array
   
 end
 reverse_each_word(sentence)

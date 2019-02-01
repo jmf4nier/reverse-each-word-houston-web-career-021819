@@ -7,6 +7,7 @@ def reverse_each_word(string)
     reverse_string = word.split
     reverse_string.reverse
     reverse_string
+  end
     
   
 end

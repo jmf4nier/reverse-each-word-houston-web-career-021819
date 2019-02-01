@@ -11,3 +11,4 @@ def reverse_each_word(string)
  # array  
   
 end
+reverse_each_word(sentence)

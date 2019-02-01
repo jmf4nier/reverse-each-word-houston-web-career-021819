@@ -8,7 +8,7 @@ def reverse_each_word(string)
    # array << word.reverse
     
  # end
-  p array  
+  puts array  
   
 end
 reverse_each_word(sentence)

@@ -2,7 +2,8 @@
 sentence = "Hello there, how are you?"
 
 def reverse_each_word(string)
-  array = string.to_a
+  array = string.split
+  
   p array
   
   

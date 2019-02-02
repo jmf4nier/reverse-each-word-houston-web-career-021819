@@ -8,7 +8,7 @@ def reverse_each_word(string)
      reverse_array << word.reverse
   end
     
-  new_string = reverse.split(" ")
+  new_string = reverse_array.split(" ")
   new_string
   
   

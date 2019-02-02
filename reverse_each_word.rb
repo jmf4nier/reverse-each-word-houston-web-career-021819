@@ -9,4 +9,5 @@ def reverse_each_word(string)
   end
   reverse_array.join(" ")
 end
-reverse_each_word(sentence)
+#reverse_each_word(sentence)
+

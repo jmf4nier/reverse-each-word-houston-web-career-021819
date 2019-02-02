@@ -3,12 +3,13 @@ sentence = "Hello there, how are you?"
 
 def reverse_each_word(string)
   array = string.split
-  reverse = ""
+  reverse_array = ""
   array.each do |word|
-     reverse << word.reverse
+     reverse_array << word.reverse
   end
     
-  reverse.split(" ")
+  new_string = reverse.split(" ")
+  new_string
   
   
 end

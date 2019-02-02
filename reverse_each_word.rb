@@ -10,5 +10,5 @@ def reverse_each_word(string)
   end
   
 end
-#reverse_each_word(sentence)
+reverse_each_word(sentence)
 
